@@ -81,8 +81,9 @@ class PaperCaller:
 
         paperIDs = paperIDs[:limit]
 
+        print("リクエストする論文の数：{}".format(len(paperIDs)))
+
         # 論文データ取得
-        print("papers取得")
         r = requests.post(endpoint, params=params, json={"ids": paperIDs})
         r = '{"data": ' + r.text.replace("\n", "") + "}"
         r_dict = json.loads(r)["data"]
