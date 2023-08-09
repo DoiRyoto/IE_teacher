@@ -22,7 +22,12 @@ https://ie-teacher-doi.vercel.app/
 [GoogleScholarやConnectedPapers]とは異なり、  
 [先行研究を素早く調査することができるよう]にします。  
 
-(更新日:8/9)
 ### 作業場所URL
 - [メインMiroはこちら](https://miro.com/app/board/uXjVM4W_zM4=/)
 - [チームの情報共有GoogleDocはこちら](https://drive.google.com/drive/folders/12qwP0sQS7g64rPYkWEqf_Gr8yu3Gmzsc?usp=sharing)
+
+## 私の担当箇所
+・フロントエンド実装
+・システム設計
+
+(更新日:8/9)
