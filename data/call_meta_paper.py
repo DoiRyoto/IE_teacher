@@ -150,7 +150,6 @@ class PaperCaller:
             
             r_dict.append(paper)
 
-
         # 結果を確認
         if not self.check_api_result(r_dict):
             print("ERROR!")
