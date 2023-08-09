@@ -3,7 +3,7 @@
 「理工情報生命学術院（仮）」  
 ### サービス名
 「情報工学先生」  
-https://ieteacher--rikojoho-kari.repl.co/
+https://ie-teacher-doi.vercel.app/
 ### メンバーリスト  
 土居亮斗  
 赤田真由  
@@ -15,14 +15,14 @@ https://ieteacher--rikojoho-kari.repl.co/
 
 ### エレベーターピッチ
 [情報工学先生]は、  
-[多すぎる先行研究の中から、どの先行研究が重要が判別しづらいという課題]を解決したい、  
-[情報工学系の研究初心者向け]の、  
+[多すぎる先行研究をサーベイするのに時間がかかるという課題]を解決したい、  
+[情報工学系の研究者向け]の、  
 [サーベイ支援システム]です。  
-これは、[入力論文に関連する論文を厳選して表示する]ことで、  
+これは、[ユーザーの選ぶ論文を基にして参考文献を素早く繰り返し遡ることができる点]で、  
 [GoogleScholarやConnectedPapers]とは異なり、  
-[ユーザにとって重要な先行研究を容易に判別できるよう]にします。  
+[先行研究を素早く調査することができるよう]にします。  
 
-(更新日:8/2)
+(更新日:8/9)
 ### 作業場所URL
 - [メインMiroはこちら](https://miro.com/app/board/uXjVM4W_zM4=/)
 - [チームの情報共有GoogleDocはこちら](https://drive.google.com/drive/folders/12qwP0sQS7g64rPYkWEqf_Gr8yu3Gmzsc?usp=sharing)
