@@ -27,7 +27,7 @@ https://ie-teacher-doi.vercel.app/
 - [チームの情報共有GoogleDocはこちら](https://drive.google.com/drive/folders/12qwP0sQS7g64rPYkWEqf_Gr8yu3Gmzsc?usp=sharing)
 
 ## 私の担当箇所
-・フロントエンド実装
-・システム設計
-
+・フロントエンド実装  
+・システム設計  
+  
 (更新日:8/9)
