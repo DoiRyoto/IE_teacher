@@ -33,6 +33,8 @@
                         <th colspan="1">tldr</th>
                         <th colspan="1">year</th>
                         <th colspan="1">citationCount</th>
+                        <th colspan="1">journal/conference</th>
+                        <th colspan="1">fields</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -54,12 +56,18 @@
                         <td>
                             {{ paper["citationCount"] }}
                         </td>
+                        <td>
+                            {{ paper["venue"] }}
+                        </td>
+                        <td>
+                            {{ paper["fieldsOfStudy"] }}
+                        </td>
                     </tr>
                     {% endfor %}
                 </tbody>
             </table>
             <div class="feedback-container">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9_7O1elUE_3yFz5InsYa9R8sRgS-soVp4E1Jp-iYQYsAdnQ/viewform?usp=sf_link">フィードバックはこちら</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9_7O1elUE_3yFz5InsYa9R8sRgS-soVp4E1Jp-iYQYsAdnQ/viewform?usp=sf_link"  target="_blank">フィードバックはこちら</a>
             </div>
         </div>
     </body>

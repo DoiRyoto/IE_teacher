@@ -90,7 +90,7 @@ def result(paperId):
   
   paperIds=paperId.split('-')
 
-  papers_data=pc.get_papers_by_paperIds(paperIds, PAPER_IDS_POST_LIMIT)
+  papers_data=pc.get_papers_by_paperIds_for_result(paperIds, PAPER_IDS_POST_LIMIT)
   # papers_data=pc.get_papers_by_paperIds_using_for_loop(paperIDs=paperIds, limit=GET_LIMIT_USING_FOR_LOOP)
 
   """
@@ -102,6 +102,6 @@ def result(paperId):
   return render_template("result.html", papers=papers_data)
 
 if __name__ == "__main__":
-  # app.run(debug=False, host="0.0.0.0", port=81)
+  # app.run(debug=False, host="0.0.0.0", port=81
   app.run(debug=True, host='localhost')
 
